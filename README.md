@@ -2,4 +2,8 @@ Information Visualisation
 
 Sarthak Jain
 
-Tableu Project
+Tableau Project
+
+Election Data Visualization
+
+Tabeleau Link - https://public.tableau.com/app/profile/sarthak4267/viz/ElectionVisualization_16777785717770/Dashboard1
